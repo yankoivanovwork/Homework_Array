@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad5\bin\Debug\netcoreapp2.1\HomeworkL3_Zad5.deps.json
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad5\bin\Debug\netcoreapp2.1\HomeworkL3_Zad5.runtimeconfig.json
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad5\bin\Debug\netcoreapp2.1\HomeworkL3_Zad5.runtimeconfig.dev.json
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad5\bin\Debug\netcoreapp2.1\HomeworkL3_Zad5.dll
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad5\bin\Debug\netcoreapp2.1\HomeworkL3_Zad5.pdb
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad5\obj\Debug\netcoreapp2.1\HomeworkL3_Zad5.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad5\obj\Debug\netcoreapp2.1\HomeworkL3_Zad5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad5\obj\Debug\netcoreapp2.1\HomeworkL3_Zad5.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad5\obj\Debug\netcoreapp2.1\HomeworkL3_Zad5.AssemblyInfo.cs
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad5\obj\Debug\netcoreapp2.1\HomeworkL3_Zad5.dll
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad5\obj\Debug\netcoreapp2.1\HomeworkL3_Zad5.pdb

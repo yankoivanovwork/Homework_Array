@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad3\obj\Debug\netcoreapp2.1\HomeworkL3_Zad3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad3\obj\Debug\netcoreapp2.1\HomeworkL3_Zad3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad3\obj\Debug\netcoreapp2.1\HomeworkL3_Zad3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad3\obj\Debug\netcoreapp2.1\HomeworkL3_Zad3.AssemblyInfo.cs
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad3\bin\Debug\netcoreapp2.1\HomeworkL3_Zad3.deps.json
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad3\bin\Debug\netcoreapp2.1\HomeworkL3_Zad3.runtimeconfig.json
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad3\bin\Debug\netcoreapp2.1\HomeworkL3_Zad3.runtimeconfig.dev.json
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad3\bin\Debug\netcoreapp2.1\HomeworkL3_Zad3.dll
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad3\bin\Debug\netcoreapp2.1\HomeworkL3_Zad3.pdb
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad3\obj\Debug\netcoreapp2.1\HomeworkL3_Zad3.dll
+C:\Users\User\source\repos\HomeworkL3\HomeworkL3_Zad3\obj\Debug\netcoreapp2.1\HomeworkL3_Zad3.pdb
