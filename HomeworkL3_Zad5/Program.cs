@@ -34,22 +34,22 @@ namespace HomeworkL3_Zad5
 
             for (int i = 0; i < password.Length; i++)
             {
-                if (strongPasswordConditionDictionary[Condition.containsADigit] == false)
+                if (!strongPasswordConditionDictionary[Condition.containsADigit])
                 {
                     strongPasswordConditionDictionary[Condition.containsADigit] = ValidatePasswordHasAleastOneDigit(password[i]);
                 }
 
-                if (strongPasswordConditionDictionary[Condition.containsLowercase] == false)
+                if (!strongPasswordConditionDictionary[Condition.containsLowercase])
                 {
                     strongPasswordConditionDictionary[Condition.containsLowercase] = ValidatePasswordHasLowerCaseChar(password[i]);
                 }
 
-                if (strongPasswordConditionDictionary[Condition.containsUppercase] == false)
+                if (!strongPasswordConditionDictionary[Condition.containsUppercase])
                 {
                     strongPasswordConditionDictionary[Condition.containsUppercase] = ValidatePasswordHasUpperCaseChar(password[i]);
                 }
 
-                if (strongPasswordConditionDictionary[Condition.containsSpecialCharacter] == false)
+                if (!strongPasswordConditionDictionary[Condition.containsSpecialCharacter])
                 {
                     strongPasswordConditionDictionary[Condition.containsSpecialCharacter] = ValidatePasswordHasSpecialChar(password[i]);
                 }
