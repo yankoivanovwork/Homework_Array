@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace HomeworkL3_Zad5
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             ///variant 0 - razlichna promenliva za vsqka proverka, masiv - pass
 
