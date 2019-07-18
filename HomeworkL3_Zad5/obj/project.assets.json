@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\HomeworkL3\\HomeworkL3_Zad5\\HomeworkL3_Zad5.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Homework_Array\\HomeworkL3_Zad5\\HomeworkL3_Zad5.csproj",
       "projectName": "HomeworkL3_Zad5",
-      "projectPath": "C:\\Users\\User\\source\\repos\\HomeworkL3\\HomeworkL3_Zad5\\HomeworkL3_Zad5.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Homework_Array\\HomeworkL3_Zad5\\HomeworkL3_Zad5.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\HomeworkL3\\HomeworkL3_Zad5\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Homework_Array\\HomeworkL3_Zad5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
